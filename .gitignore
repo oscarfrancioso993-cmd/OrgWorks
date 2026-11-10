@@ -1,0 +1,16 @@
+# macOS
+.DS_Store
+
+# Xcode e Swift
+xcuserdata/
+DerivedData/
+.build/
+*.xcuserstate
+
+# Segreti: mai nel repo
+credenziali.json
+*.pem
+*-credentials.json
+
+# Prove dello spike con dati reali
+Spike/config.json
